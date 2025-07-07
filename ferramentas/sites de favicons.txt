@@ -1,7 +1,0 @@
-icon archive - site com coleção de icons
-
-favicon.cc - site para desenhar seu icon
-
-favicon.io - transforma texto, imagem e favicon em icon
-
-materialize.icons - site de icons
