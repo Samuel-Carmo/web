@@ -1,0 +1,12 @@
+HTML = lingugem de marcação de hipertexto
+linguagem focada em conteudo
+textos, imagens, videos, tabelas, listas
+
+
+CSS = folhas de estilo em cascata
+DESIGN
+cores, sombras, tamanhos, posicionamento
+
+JAVASCRIPT
+INTERAÇÕES
+menus, animações, popups

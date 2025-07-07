@@ -1,0 +1,14 @@
+h1{
+    font-family: Arial:
+    font-size: 20pt:
+    color:blue:
+}
+font-famile:, font-size, color == propriedades
+Arial, 20pt, blue == são valores
+h1 == seletor
+dentro do seletor tem as linhas e cada linha inteira é uma declaração
+ex:font-family: Arial:
+    font-size: 20pt:
+    color:blue:
+essas 3 linhas são 3 declaração
+

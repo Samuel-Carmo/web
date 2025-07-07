@@ -1,0 +1,10 @@
+================ SELETORES PERSONALIZADOS =============
+# == id
+. == class
+: == pseudo-class
+:: == pseudo-element
+> == clildren (filhos)
+-- == variavel
+
+:root {} == área principal onde você pode botar suas variaveis
+	--?:?? == ? nome da vareavel, ?? conteudo da vaiavel

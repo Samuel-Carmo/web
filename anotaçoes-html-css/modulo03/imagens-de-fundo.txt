@@ -1,0 +1,21 @@
+height: 97vh; == altura recomendada para a imagem no body
+background-size: ; == define o tamanho da imagem
+	contain == exibe 100% da imagem, mais cria uma margem para que a imagem caiba
+	cover == a imagem cobre a tela inteira, corta a imagem restante
+
+background-repeat: ; == mexe com a repetição da imagem
+	no-repeat == sem repetição
+	repeat-x == repete a imagem so na horizontal
+	repeat-y == repete a imagem so na vertical
+
+background-position: ; == define a posição da imagem de fundo, primeiro define coluna depois a linha
+	coluna == left, center, right
+	linha == top, center, bottom
+
+background-attachment; : == determina se uma imagem de plano de fundo permanece fixa ou rola 
+juntamente com o conteúdo da página.
+	fixed ==  A imagem de plano de fundo permanece fixa em relação à janela de visualização.
+	scroll == A imagem de plano de fundo rola junto com o conteúdo da página à medida que o 
+usuário faz a rolagem.
+	local == A imagem de plano de fundo rola juntamente com o conteúdo da página, mas mantém 
+sua posição em relação ao elemento que a contém.

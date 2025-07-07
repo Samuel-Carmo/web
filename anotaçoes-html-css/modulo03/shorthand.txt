@@ -1,0 +1,3 @@
+background; color > image > position > repeat > [size] > attachment
+	size == na teoria ele ficaria nessa posição mais não funciona,então ele deve 
+ser usado em um background separado.

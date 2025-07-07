@@ -1,0 +1,24 @@
+https://www.youtube.com/watch?v=E2gaDa4ZaTc&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=5
+cores primarias == amarelo, vermelho e azul
+
+cores secundarias == laranja, violeta e verde
+
+cores terciarias == amarelo-esverdeado, amarelo-alaranjado, vermelho-alaranjado,
+vermelho arroxeado, azul-arroxeado, azul-esverdeado
+
+cores quentes == amarelo alaranjado, laranja, vermelho-alaranjado, vermelho, vermelho-arroxeado
+
+cores frias == roxo, azul-arroxeado, azul, azul-esverdeado, verde, amarelo-esverdeado
+
+========== representação das cores ===========
+<!--Representação por nomes-->
+style="background-color: blue; color: white
+
+<!-- Representação por códigos exadecimais -->
+style="background-color: #0000ff; color: #ffffff;"
+
+<!-- Representação por rgb (red, green, blue) -->
+style="background-color: rgb(0, 0, 255); color: rgb(255, 255, 255);"
+
+<!-- Representação por hsl (hue, saturation, luminosity) -->
+style="background-color: hsl(240, 100%, 50%); color: hsl(0, 0%, 100%);"

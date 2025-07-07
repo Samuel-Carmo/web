@@ -1,0 +1,10 @@
+content == conteudo
+border == é uma borda que sircunda o seu conteudo
+padding == é um espaço que separa a borda do conteudo
+margin == é o espaço fora da borda
+outiline == é uma borda que sircunda o seu conteudo
+box-level == é um bloco independente que ocupa toda a largura
+inline-level == é um bloco mais ele não quebra linha e nem ocupa a largura toda
+
+margin; auto: == mede automaticamente a largura da margem para que
+sua box fique exatamente no meio da tela

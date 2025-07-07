@@ -1,0 +1,11 @@
+===============BOX EXTERNA======================
+position: relative; == O elemento ainda ocupa espaço no fluxo normal do documento,
+mas você pode ajustar sua posição usando as propriedades top, bottom, left e right.
+
+==============BOX INTERNA=========================
+position: absolute; ==  é usada para permitir o posicionamento absoluto da caixa interna
+em relação à caixa externa.
+top: 50%; == move a caixa interna para 50% da altura da caixa externa.
+left: 50%; == move a caixa interna para 50% da largura da caixa externa.
+transform: translate(-50%, -50%); == ajusta a posição da caixa interna em relação ao seu 
+próprio tamanho, para que fique exatamente centralizada.

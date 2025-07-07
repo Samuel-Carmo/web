@@ -1,0 +1,32 @@
+1° você faz sua box ter posicionamento relativo
+no caso de tabela a box é o table
+table {
+	position: relative;
+}
+
+2° você bota o elemento que você quer que fique fixo no 
+nosso caso o cabeçalho
+
+thead > tr >th {
+
+}
+
+3° você bota posicionamento grudavel
+thead > tr >th {
+	position: sticky;
+}
+
+4° você bota onde o elemento vai ficar fixo no nosso caso
+no topo
+thead > tr >th {
+	position: sticky;
+	top: -1px;
+}
+
+5° você bota a cor de fundo do seu elemento pois se não
+ele fica so o texto flutuando
+thead > tr >th {
+	position: sticky;
+	top: -1px;
+	background-color: gray;
+}

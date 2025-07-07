@@ -1,0 +1,8 @@
+fonts.google.com == site de fontes
+https://www.dafont.com/pt/ == site de fontes
+
+https://www.whatfontis.com/ == site para identificar fontes de imagens
+https://www.fontsquirrel.com/matcherator == site para identificar fontes de imagens
+https://www.myfonts.com/pages/whatthefont == site para identificar fontes de imagens
+
+https://www.qr-code-generator.com/ == gerador de qr-code

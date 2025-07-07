@@ -1,0 +1,3 @@
+word wrap == de off para on para quebrar linha automaticamente
+size == alterar fonte de 13 para 20
+theme == pode mudar o tema pra qual vc quiser exemplo(tema claro e tea escuro)

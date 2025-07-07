@@ -1,0 +1,45 @@
+=========================hierarquia de tabelas simples================
+table == tabela
+ tabela row(tr) == linha de tabela
+ table header(th) == cabeçalho de tabela
+    scope=" "
+ table data(td) == dado de tabela
+==================anatomia para tabelas grandes ================
+table == tabela
+caption == legenda
+ thead == cabeça
+   tr, td, th
+ tbody == corpo
+   tr, td, th
+ tfoot == pé
+   tr, td, th
+================= comandos ================
+scope=" " == diz se os dados estão na mesma linha ou mesma coluna
+que table header
+	col == na mesma coluna (vertical)
+	row == na mesma linha (horizontal)
+<colgroup> == <colgroup> é colocada dentro da tag <table> e geralmente 
+é usada em conjunto com as tags <col> para especificar as características 
+visuais das colunas agrupadas. Cada elemento <colgroup> pode conter um 
+ou mais elementos <col>.
+
+border-collapse: ; == decide se as bordas vão ficar juntas ou separadas
+	separate == separado
+	collapse == junto
+
+vertical-align: ; == alinhamento do texto na vertical
+	top == encima
+	middle == meio
+	bottom == embaixo
+
+================efeito zebrado===============
+nth-clid(?)
+	odd == impar ou 2n-1
+	even == impar ou 2n
+==================span=============
+span == serve para um conteudo ucupe 2 ou mais colunas ou linhas de 
+uma tabela
+<td ?span="??" == ? col ou row e ?? número de linhas ou colunas que
+esse conteudo(td) vai ocupar
+	col == coluna (horizontal)
+	row == linha (vertical)

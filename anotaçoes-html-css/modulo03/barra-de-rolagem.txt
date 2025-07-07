@@ -1,0 +1,7 @@
+overflow-y: scroll; == faz com que uma barra de rolagem vertical seja exibida quando o conteúdo da caixa excede sua altura
+
+overflow-x: scroll; == faz com que uma barra de rolagem horizontal seja exibida quando o conteúdo da caixa excede sua largura.
+
+overflow: scroll; == faz com que tanto a barra de rolagem vertical quanto a horizontal sejam exibidas quando o conteúdo da caixa excede suas dimensões.
+
+overflow: hidden; == faz com que a barra de rolagem seja ocultada, mesmo se o conteúdo da caixa exceder suas dimensões. Nesse caso, o conteúdo que ultrapassar as dimensões da caixa não será visível.

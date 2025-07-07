@@ -1,0 +1,16 @@
+<iframe src="" frameborder="0" scolling="?">??</iframe> 
+	src="" == link do site
+	frameborder="0" == 0 é sem borda e 1 é com borda 
+ele so aceita borda de 1px, se você quiser configurar a 
+borda tem que ser pelas CSS.
+	?? == você bota um conteudo para ser mostrado 
+casoo iframe não rode.
+	scolling="auto" == se o conteudo do iframe for 
+maior que o iframe ele mostra barra de relogam, se for 
+menor ele não mostra barra de rolagem.
+	scolling="yes" == mesmo se conteudo for menor 
+que o iframe ele mostra barra de relogaem.
+	scolling="no" == mesmo se o conteudo for maior 
+que o iframe ele não mostra barra de rolagem.
+{{{OBS: o scolling="" não está uncionando em 
+alguns navegadores}}}

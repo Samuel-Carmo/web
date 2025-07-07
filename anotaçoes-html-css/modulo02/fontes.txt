@@ -1,0 +1,26 @@
+medidas recomendadas para fontes == px e em
+font-size == tamanho da fonte
+
+variações de peso == lighter(leve), normal, bold, bolder
+font-weigth == peso da fonte
+
+categorias de fontes == serifadas(com serifas), sans-serif( sem siifas),
+monoespaçadas( todas as letras ocupam a mesma largura),
+handwriting( simula letras escritas a mão),
+display(fontes comemorativas)
+
+========== comandos ===========
+
+font-style:?; == estilo da fonte
+text-decoration:?; == decoração do texto
+
+font: font-family → font-weigth → font-size → font-style
+
+@font-face == serve para usar uma fonte que você baixou
+
+=========alinhamento do texto ===========
+text-align: justify; == alinha o texto para que uma linha termine no mesmo local que a outra
+	right; alinha o texto a direita
+	left; == alinha o texto a esqerda
+
+text-indent: ?; == da uma identação no texto

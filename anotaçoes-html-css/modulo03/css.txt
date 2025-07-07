@@ -1,0 +1,4 @@
+text-trnasform: uppercase; == joga todas as letras pra maiusculas
+
+font-variant: small-caps: todas as letras ficam no formato de leras maiusculas mais continuam
+do mesmo tamanho
