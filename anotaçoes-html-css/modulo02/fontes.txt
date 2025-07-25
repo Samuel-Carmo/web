@@ -4,7 +4,7 @@ font-size == tamanho da fonte
 variações de peso == lighter(leve), normal, bold, bolder
 font-weigth == peso da fonte
 
-categorias de fontes == serifadas(com serifas), sans-serif( sem siifas),
+categorias de fontes == serifadas(com serifas), sans-serif( sem serifas),
 monoespaçadas( todas as letras ocupam a mesma largura),
 handwriting( simula letras escritas a mão),
 display(fontes comemorativas)
