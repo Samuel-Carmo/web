@@ -1,0 +1,8 @@
+font: font-style -> font-weight -> font-size -> font-family
+    font-style: estilo da fonte (normal, italic, oblique)
+
+    font-weight: Peso da fonte (lighter normal bold bolder)
+
+    font-size: Tamanho da fonte ex: 2em
+
+    font-family: família da fonte
